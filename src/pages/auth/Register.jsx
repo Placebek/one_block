@@ -65,7 +65,7 @@ function Register() {
                     </svg>
                 </div>
                 <motion.div
-                    className="relative top-0 w-[282px] h-[282px] "
+                    className="relative top-0 w-[282px] h-[245px] "
                     variants={imageVariants}
                     initial="hidden"
                     animate="visible"
