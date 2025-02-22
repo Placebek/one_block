@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
 import Auth from './pages/auth/Auth' // Путь к Auth.jsx
 import Register from './pages/auth/Register' // Путь к Register.jsx
 import Login from './pages/auth/Login' // Путь к Login.jsx
